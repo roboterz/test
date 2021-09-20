@@ -6,4 +6,14 @@ xxx
 dfdfd
 dfdfddf
 dfdfddfdf
+<<<<<<< HEAD
 dfdfdd
+=======
+dfdfddooo
+i
+oi
+i
+oioi
+oioii
+oi
+>>>>>>> e8663d56b80a1de5bb71d8cba82d79a2a3562a13
