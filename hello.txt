@@ -1,11 +1,9 @@
 random random random Hello!
 Mother Fucker!
 Fucker Fucker!
-<<<<<<< Updated upstream
+
 xxx
 dfdfd
 dfdfddf
 dfdfddfdf
 dfdfdd
-=======
->>>>>>> Stashed changes
